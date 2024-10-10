@@ -1,0 +1,82 @@
+# Java Class Files
+*.class
+
+# Compiled Java class files
+/bin/
+/build/
+/out/
+
+# Dependency directories
+/.mvn/
+target/
+*/target/
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.lastUpdated
+.mvn/
+!**/src/main/**/resources/**
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Environment variable files
+.env
+*.env
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Miscellaneous
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# Files created by popular IDEs
+*.log
+*.pyc
+*.pyo
+__pycache__/
+
+# Local configuration files
+*.local
+*.user
